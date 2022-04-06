@@ -1,2 +1,2 @@
 # Pomodoro
-Pomodor API
+Pomodoro API
